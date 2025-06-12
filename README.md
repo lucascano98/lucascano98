@@ -21,7 +21,7 @@ This project reflects real-world scheduling challenges and is built to solve an 
 - Git & GitHub
 - Visual Studio Code
 
-- ## 🔍 What I'm Looking For
+## 🔍 What I'm Looking For
 
 - Feedback on my code and approach
 - Mentorship from experienced developers
