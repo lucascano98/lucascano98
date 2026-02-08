@@ -1,19 +1,22 @@
 # 👋 Hi, I’m Lucas
 
-I'm a servicemember transitioning into software development, focused on writing clean, practical code and building tools that solve real problems. Right now, I'm working in Python while building out my skills through hands-on projects.
+U.S. Marine Corps Veteran transitioning into software development. I focus on writing clean, maintainable code and building tools that solve real-world problems. Currently expanding my skills in C#, Python, SQL, and modern development workflows through hands-on projects.
 
 
 ## 💻 Tools & Languages
 
+- C#
 - Python
+- SQL
 - Git & GitHub
-- Visual Studio Code
+- Visual Studio/ VSCode
+- Linux/Bash
 
 ## 🔍 What I'm Looking For
 
 - Feedback on my code and approach
 - Mentorship from experienced developers
-- Open-source projects that align with practical problem-solving
+- Open-source projects focused on practical problem-solving
 - Connections with other learners and builders
 
 ## 📫 Contact
