@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Lucas
 
-U.S. Marine Corps Veteran transitioning into software development. I focus on writing clean, maintainable code and building tools that solve real-world problems. Currently expanding my skills in C#, Python, SQL, and modern development workflows through hands-on projects.
+Software developer with nearly 10 years of military experience in the U.S. Marine Corps. I focus on writing clean, maintainable code and building tools that solve real-world problems. Currently expanding my skills in C#, Python, SQL, and modern development workflows through hands-on projects.
 
 
 ## 💻 Tools & Languages
