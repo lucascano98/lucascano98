@@ -10,6 +10,7 @@ Software developer with nearly 10 years of military experience in the U.S. Marin
 - SQL
 - Git & GitHub
 - Visual Studio/ VSCode
+- NeoVim
 - Linux/Bash
 
 ## 🔍 What I'm Looking For
